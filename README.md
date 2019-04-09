@@ -4,3 +4,5 @@ The project consists of a domotic home controlled both by Bluetooth via mobile a
 The documents are the next ones:
 - "..ino" The code in Arduino.
 - "..pptx" The presentation of the project to the professor.
+
+MADE during Erasmus in Naples, Italy. 
